@@ -1,0 +1,22 @@
+[   
+    { 
+         "nom":"Bruno",
+        "prenom":"test",
+        "image":"/assets/img1.jpg"
+    },
+    { 
+        "nom":"Rakoto",
+        "prenom":"Lova",
+        "image":"/assets/test.jpg"
+    },
+    { 
+        "nom":"Rabera",
+        "prenom":"Sahondra",
+        "image":"/assets/img3.PNG"
+    },
+    { 
+        "nom":"Tsialo",
+        "prenom":"Rasoa",
+        "image":"/assets/img4.PNG"
+    }
+]
